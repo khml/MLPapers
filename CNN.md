@@ -6,6 +6,12 @@ Nov 1998
 Nov 2013
 - [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
 
+Mar 2019
+- [Quaternion Convolutional Neural Networks](https://arxiv.org/abs/1903.00658)
+
+Apr 2019
+- [Hyperbolic Image Embeddings](https://arxiv.org/abs/1904.02239)
+- [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://export.arxiv.org/abs/1904.05049)
 
 
 # Image Classification
